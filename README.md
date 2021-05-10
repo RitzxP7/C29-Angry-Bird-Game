@@ -1,1 +1,2 @@
-# C29-Angry-Bird-Game
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
